@@ -1,4 +1,4 @@
-# employees_flutter_bloc
+# Employees BLoc Flutter App
 
 A simple Employees Flutter App using a BLoc State Management Pattern
 
